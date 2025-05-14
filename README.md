@@ -1,7 +1,7 @@
 # I finally did it 
 - 1st download the file
 - 2nd open the file in your browser
-- 3rd enter the link (https://play.rosebud.ai/)
+- 3rd enter the link (rosebud.ai)
 - 4th press "cover url"
 - 5th thank me when it works
 - 6th play play play
