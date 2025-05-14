@@ -5,4 +5,4 @@
 - 4th press "cover url"
 - 5th thank me when it works
 - 6th play play play
-  # This is guaranteed to work for rosabud ai but not other sites if you try then go ahead but its not likely to work also this cant be blocked because its a file 😸
+  # This is guaranteed to work for rosabud ai but not other sites if you try then go ahead but its not likely to work also this cant be blocked because its a file 😸(if you use securly)
